@@ -1,8 +1,24 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## React Auth App with Multi-Factor Authentication
 
+This is a React Auth project with two-authenticator system.
+
+- Node, React 17, Typescript
+- Styles: Boostrap, postcss
+- Backend: my custom Backend
+- Pages and Components: login, register user, recover password user, digit passcode for qrcode multi-factor authentication
+- Redux system to update state and token 
+- React Router 6
+
+<p align="center">
+  <img src="screen-app.jpg" width="960" alt="Sample Blog NextJs" />
+</p>
 ## Available Scripts
+
+In the project directory, first to install dependencies run:
+
+### `yarn install`
+
 
 In the project directory, you can run:
 
